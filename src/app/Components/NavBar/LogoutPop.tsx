@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 
 const Logout = ({ onClose, onLogout }) => {
 
-
+//       return token?.data?.token;
 
     return (
         <>
